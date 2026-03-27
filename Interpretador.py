@@ -1,4 +1,4 @@
-from Leitor import caminho, traducao, organiza
+from Utility.Leitor import caminho, traducao, organiza
 from vpython import sphere, vector, color, cylinder
 from random import randint
 import math
